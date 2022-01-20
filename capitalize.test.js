@@ -1,6 +1,6 @@
 const capitalize = require('./capitalize');
 
-describe('test capitalize function', () => {
+describe('Test capitalize function', () => {
   test('Test Capitalization', () => {
     expect(
       capitalize('programming')

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1642665832115" clover="3.2.0">
-  <project timestamp="1642665832115" name="All files">
-    <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7" elements="21" coveredelements="21" complexity="0" loc="14" ncloc="14" packages="1" files="4" classes="4"/>
+<coverage generated="1642668682195" clover="3.2.0">
+  <project timestamp="1642668682195" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7" elements="27" coveredelements="27" complexity="0" loc="16" ncloc="16" packages="1" files="4" classes="4"/>
     <file name="calculator.js" path="D:\Microverse\Module 2\Week 3\Unit-Testing-Practice\calculator.js">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <line num="3" count="1" type="stmt"/>
@@ -23,10 +23,12 @@
       <line num="5" count="1" type="stmt"/>
     </file>
     <file name="stringLength.js" path="D:\Microverse\Module 2\Week 3\Unit-Testing-Practice\stringLength.js">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="2" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
+      <line num="2" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
