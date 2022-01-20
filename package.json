@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tariktesfa/Unit-Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tariktesfa/Unit-Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/tariktesfa/Unit-Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
